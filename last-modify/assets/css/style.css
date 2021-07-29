@@ -441,6 +441,7 @@ select:focus {
   transition: transform .6s ease;
   transition: transform .6s ease, -webkit-transform .6s ease;
   transition: transform .6s ease, -webkit-transform .6s ease;
+      margin-top: 100px;
 }
 
 /* Global style */
@@ -960,7 +961,7 @@ select:focus {
 }*/
 .mainmenu-area {
   position: fixed;
-  bottom: 32%;
+  bottom: 24%;
   right: 25%;
   width: 50%;
   z-index: 999;
